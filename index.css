@@ -1,0 +1,17 @@
+.navbar-custom{
+    background-color: orange;
+}
+
+.bank-button{
+    background-color: blue;
+}
+
+.form-group{
+    display: inline-block;
+    
+}
+
+.submit-button{
+    background-color: blue;
+    font-weight: bold;
+}
